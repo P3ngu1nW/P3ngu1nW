@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm P3ngu1nW
+
+- 🔭 CTF WEBer in 0x401
+- 🌱 AI Security Learner
+- 🏀 Small Forward in college team
+
 
 <!--
 **P3ngu1nW/P3ngu1nW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
