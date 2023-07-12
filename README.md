@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm P3ngu1nW
 
 - 🔭 CTF WEBer in 0x401
-- 🌱 AI Security Learner
 - 🏀 Small Forward in college team
 
 
